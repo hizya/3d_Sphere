@@ -1,4 +1,4 @@
-###a interesting 3D sphere
+a interesting 3D sphere
 
-##site:
-#https://sphere-zya.netlify.app
+site:
+https://sphere-zya.netlify.app
